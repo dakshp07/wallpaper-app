@@ -1,6 +1,6 @@
 ## Wallpaper App
 
-A COVID19 Tracking App Which is made using Dart and Flutter.
+A Wallpaper App Which is made using Dart and Flutter.
 The APIs Used Can Be Found [Here](https://www.pexels.com/)
 
 ## Packages Used 
